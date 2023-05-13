@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Nicolas, known on the internet as lucien-rowan or Tech-FZ, from Germany. I mean, I already did some interesting stuff in different programming languages before.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-FZ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tech-FZ&show_icons=true&theme=dark)
+
 <!--
 **Tech-FZ/Tech-FZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
