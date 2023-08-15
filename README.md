@@ -6,6 +6,8 @@ I'm Nicolas, known on the internet as lucien-rowan or Tech-FZ, from Germany. I m
 
 ![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tech-FZ&show_icons=true&theme=dark)
 
+And yes, I'm the EmuGUI guy.
+
 <!--
 **Tech-FZ/Tech-FZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
